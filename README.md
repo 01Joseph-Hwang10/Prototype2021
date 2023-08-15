@@ -10,6 +10,9 @@
 
 ## Showcase
 
+> [!NOTE]\
+> 본 애플리케이션의 대외 공개 자료는 [여기](https://drive.google.com/file/d/1PvF9nzRBgQ2BEA0V0UiGAk0xw5-SYBrD/view?usp=sharing)를 참조하세요.
+
 <img width="1138" alt="스크린샷 2023-08-16 오전 12 46 54" src="https://github.com/01Joseph-Hwang10/Prototype2021/assets/72839543/3adb8bd0-8ac1-4860-a750-f55af4199505">
 <img width="1068" alt="스크린샷 2023-08-16 오전 12 47 05" src="https://github.com/01Joseph-Hwang10/Prototype2021/assets/72839543/7dbe4057-aea5-4152-b835-e10fa10204a1">
 
